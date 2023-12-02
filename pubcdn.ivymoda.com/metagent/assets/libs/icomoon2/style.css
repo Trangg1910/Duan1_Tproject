@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon3433.eot?c8p5sv');
+  src:  url('fonts/icomoon3433.eot?c8p5sv#iefix') format('embedded-opentype'),
+    url('fonts/icomoon3433.ttf?c8p5sv') format('truetype'),
+    url('fonts/icomoon3433.woff?c8p5sv') format('woff'),
+    url('fonts/icomoon3433.svg?c8p5sv#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-account--edit:before {
+  content: "\e952";
+}
+.icon-check-ct:before {
+  content: "\e951";
+}
+.icon-shop-bag:before {
+  content: "\e9a7";
+}
+.icon-ticket-meta:before {
+  content: "\e9a8";
+}
+.icon-heart-meta:before {
+  content: "\e9a3";
+}
+.icon-usecircle:before {
+  content: "\e9a9";
+}
+.icon-map-meta:before {
+  content: "\e9a4";
+}
+.icon-search-meta:before {
+  content: "\e9a5";
+}
+.icon-headphone-meta:before {
+  content: "\e9a6";
+}
+.icon-user-meta:before {
+  content: "\e9a2";
+}
+.icon-bag-meta:before {
+  content: "\e9a1";
+}
+.icon-logo_fb:before {
+  content: "\e950";
+}

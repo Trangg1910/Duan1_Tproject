@@ -1,0 +1,37 @@
+/*----purchase-login----*/
+
+.checkout-card-information .form-group .form-control {
+    color: #221f20 !important;
+    font-weight: 500;
+}
+
+.checkout-card-information .form-group .form-control.default_color {
+    color: #a8a9ad !important;
+    /* font-weight: 100; */
+}
+
+.main_color {
+    color: #221f20;
+    font-weight: 500;
+}
+
+.ds__item__contact-info .form-control::placeholder {
+    font-weight: 400 !important;
+}
+
+.fw-400 {
+    font-weight: 400 !important;
+}
+
+
+/*----look-book----*/
+
+.m-block,
+.m-block> {
+    display: none !important;
+}
+
+/*----combo----*/
+#related-combos .title-product a{
+    text-transform: uppercase;
+}

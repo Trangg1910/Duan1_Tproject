@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Highway Gothic Expanded';
+  src: url('Highway%20Gothic%20Expanded.eot');
+  src: url('Highway%20Gothic%20Expandedd41d.eot?#iefix') format('embedded-opentype'),
+       url('Highway%20Gothic%20Expanded.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HighwayGothicExpanded';
+  src: url('HighwayGothicExpanded.svg#HighwayGothicExpanded') format('svg'),
+       url('HighwayGothicExpanded.ttf') format('truetype'),
+       url('HighwayGothicExpanded.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
